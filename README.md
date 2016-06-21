@@ -6,7 +6,9 @@ Data was taken from: UCI Machine Learning Repository
 source: https://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics#
 
 General Information:
+
 1. No of attributes = 6 + 1
+
 2. No of instances = 308
 3. Missing Values = N/A
 4. Task = Regression
